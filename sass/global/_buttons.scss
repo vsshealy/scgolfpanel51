@@ -62,6 +62,7 @@
                 font-weight: $button-font-weight;
                 text-align: center;
                 text-transform: $button-text-style;
+                line-height: $line-height-condensed;
                 letter-spacing: $letter-spacing-normal;
 
                 &:hover {
